@@ -1,0 +1,40 @@
+_repo: The-Long-Remembered-Thunder_52844
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+  - agent_name: Pederson, John
+    gutenberg_agent_id: '47037'
+    url: http://www.gutenberg.org/2009/agents/47037
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, John Keith
+    - Laumer, Kit
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Long Remembered Thunder
+url: http://www.gutenberg.org/ebooks/52844
